@@ -1,6 +1,6 @@
-package com.recruitment.bookCase.repository;
+package com.recruitment.bookcase.repositories;
 
-import com.recruitment.bookCase.model.Book;
+import com.recruitment.bookcase.model.Book;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
